@@ -1,0 +1,10 @@
+.body {
+  min-height: 100vh;
+  display: block;
+}
+
+.content {
+  min-height: calc(100vh - 120px);
+  display: block;
+  padding:20px 0;
+}
